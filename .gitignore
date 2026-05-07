@@ -38,3 +38,9 @@ out/
 
 ### properties ###
 *.properties
+
+## DS_Store(Mac) ##
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
